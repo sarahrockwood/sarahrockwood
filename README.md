@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarahrockwood
-- 👀 I’m interested in stem cell biology, single cell mutliomic technique, developmental biology, and regenearative medicine.
+- 👀 I’m interested in stem cell biology, single cell mutliomic techniques, developmental biology, and regenearative medicine.
 - 🌱 I’m currently an MD-PhD student at Stanford University. 
 - 💞️ I’m looking to collaborate on computational approaches to analyzing stem cell differentiation and genetics.
 - 📫 How to reach me: sjrock@stanford.edu
